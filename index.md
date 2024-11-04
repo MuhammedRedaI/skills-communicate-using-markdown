@@ -9,3 +9,8 @@ print("Mein Name ist Muhammed")
 ``` C++
 court<<"my name is Muhammed")
 ```
+
+
+- [ ] Turn on Github pages
+- [ ] outline my porfolio
+- [ ] introduce myself to the world
