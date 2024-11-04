@@ -9,6 +9,8 @@
 
 # Communicate using Markdown
 
+# Hello Header!
+
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
 </header>
